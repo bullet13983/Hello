@@ -1,4 +1,7 @@
 conflict.php
 <?php
-	status
-	practice
+
+	figatus
+	obrigatus
+	pjfigatus
+
