@@ -9,3 +9,4 @@ new line 3
 hello git
 hello git
 hello git
+hello git rebase
