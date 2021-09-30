@@ -7,3 +7,5 @@ new line
 new line 2
 new line 3
 hello git
+hello git
+hello git
